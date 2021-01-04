@@ -1,6 +1,7 @@
 ## Hi I'm Truong_Phan :fox_face:
 
 :computer: _Front-end developer_ :desert_island:Living in Hanoi :vietnam:
+I'm a Front-end developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup).
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
